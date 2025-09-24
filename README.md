@@ -33,7 +33,7 @@ from all pages of [Scrapeme Shop](https://scrapeme.live/shop) and save it in a C
 | File | Description |
 |------|-------------|
 | `scraping_notebook.ipynb` | The Colab notebook with the scraping code and EDA |
-| `scrapeme_products_full.csv` | The resulting dataset of all products |
+| `scrapeme_products_full (1).csv` | The resulting dataset of all products |
 
 ---
 
