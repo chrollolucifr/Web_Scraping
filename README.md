@@ -69,13 +69,3 @@ The notebook includes:
 - SSL warnings are ignored (`verify=False`) to allow scraping without certificate errors.  
 - The code is designed for educational purposes and works with [Scrapeme.live](https://scrapeme.live/shop) only.  
 
----
-
-## 📝 Author
-
-**Your Name**  
-- GitHub: [github.com/USERNAME](https://github.com/USERNAME)  
-- Email: your.email@example.com  
-
----
-
